@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 void swap(int *x,int *y ){
+    int d;
     int tamp;
     tamp=*x;
     *x=*y;
