@@ -2,6 +2,7 @@
 using namespace std;
 void swap(int *x,int *y ){
     int d;
+    int r;
     int tamp;
     tamp=*x;
     *x=*y;
